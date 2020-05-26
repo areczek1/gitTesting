@@ -7,4 +7,14 @@
     <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
   </body>
   <div> Hotfix improvements</div>
+<div>
+	<h1>asdasdasdadasdsdasdsd</h1>
+</div>
+<footer>
+	Create new footer
+</footer>
+<footer>
+	Kolejna praca nad iss53
+</footer>
+<div>jakies zmiany</div>
 </html>
